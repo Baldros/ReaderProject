@@ -15,7 +15,7 @@ st.set_page_config(page_title="Leitor Inteligente (Google)", page_icon="🎧", l
 with st.sidebar:
     st.header("Configurações (Google Edition)")
     user_name = st.text_input("Seu Nome", value="Usuário")
-    api_key = os.getenv("GOOGLE_API_KEY")
+    api_key = st.secrets["GOOGLE_API_KEY"]
     
     st.markdown("---")
     st.subheader("Idioma da Leitura")
