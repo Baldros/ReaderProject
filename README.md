@@ -93,10 +93,4 @@ Contribuições são bem‑vindas! Para colaborar:
 
 ---
 
-## Licença
-
-Este projeto está licenciado sob a **MIT License** – sinta‑se livre para usar, modificar e distribuir.
-
----
-
 **Happy reading!** 🎧
