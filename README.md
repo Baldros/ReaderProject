@@ -25,14 +25,6 @@ A interface foi projetada com **design premium** – cores vibrantes, tipografia
 
 ---
 
-## Capturas de Tela
-
-![App Mockup](../.gemini/antigravity/brain/f1e75cc6-fa5f-4e7f-93b3-5ddea55c2710/app_mockup_1765404106416.png)
-
-> *A imagem acima mostra a interface principal com barra lateral, seleção de método de entrada e botão “Processar e Ler”.*
-
----
-
 ## Instalação
 
 ```bash
